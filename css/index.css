@@ -1,0 +1,37 @@
+header {
+  height: 100px
+}
+
+.main {
+}
+
+.phone {
+  text-align: right;
+  width: 50%;
+  float: left;
+  clear: left;
+}
+
+.space {
+  height: 100px;
+}
+
+.space2 {
+  height: 200px;
+}
+
+.logo {
+  text-align: left;
+  width: 50%;
+  float: right;
+}
+
+.input {
+  text-align: left;
+  width: 50%;
+  float: right;
+}
+
+.buttons {
+  float: left;
+}
