@@ -1,0 +1,95 @@
+header {
+  height: 100px
+}
+
+.main {
+  width: 900px;
+}
+
+.phone {
+  text-align: right;
+  width: 324px;
+  float: left;
+  clear: left;
+  height: 500px;
+  margin-left: 360px;
+}
+
+.login {
+  display: block;
+  width: 150px;
+  float: right;
+}
+
+.space {
+  height: 100px;
+}
+
+.noaccount {
+  margin-top: 200px;
+  text-align: center;
+  width: 300px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: lightgrey;
+  display: block;
+
+}
+
+.border {
+  height: 50px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: lightgrey;
+}
+
+.logo {
+  text-align: left;
+  width: 300px;
+  float: left;
+  border-style: solid;
+    border-width: 1px;
+    border-color: lightgrey;
+    display: block;
+
+}
+
+.input {
+  text-align: left;
+  width: 300px;
+  float: left;
+  border-style: solid;
+    border-width: 1px;
+    border-color: lightgrey;
+    margin-bottom: 25px;
+    display: block;
+}
+
+
+.buttons {
+  float: left;
+
+}
+
+.links {
+  width: 300px;
+  text-align: center;
+}
+
+.getapp {
+  float: left;
+  width: 300px;
+  text-align: center;
+  margin-top: 5em;
+}
+
+.button {
+    background-color: lightblue;
+    border: none;
+    color: white;
+    padding: 8px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
